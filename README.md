@@ -1,15 +1,15 @@
-# Code Ninjas Resources Website
+# Code Ninjas Resources Site
 
 ![Code Ninjas Logo](CnLogo.jpg)
 
 ## Game Development Platform
 
-- something can
-- go here
+- something can go here
+- and here
 
 ## Badges
 
-Here is where all the badges will be
+A place to seperate badges by belt to reduce confusiona among ninjas and senseis.
 
 ## White Belt
 
