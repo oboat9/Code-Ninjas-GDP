@@ -1,37 +1,58 @@
-# Welcome to GitHub Pages
+# Code Ninjas Resources Website
 
-You can use the [editor on GitHub](https://github.com/oboat9/codeninjasgdp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Code Ninjas Logo](CnLogo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Game Development Platform
 
-## Markdown
+- something can
+- go here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Badges
 
-```markdown
-Syntax highlighted code block
+Here is where all the badges will be
 
-# Header 1
-## Header 2
-### Header 3
+## White Belt
 
-- Bulleted
-- List
+- [3D Printing and Design](about:blank)
+- [Micro Maker](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
 
-1. Numbered
-2. List
+## Yellow Belt
 
-**Bold** and _Italic_ and `Code` text
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
 
-[Link](url) and ![Image](src)
-```
+## Orange Belt
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
 
-### Jekyll Themes
+## Green Belt
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oboat9/codeninjasgdp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
 
-### Support or Contact
+## Blue Belt
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
+
+## Purple Belt
+
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
+
+## Brown Belt
+
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
+
+## Red Belt
+
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
+
+## Black Belt
+
+- [Lorem ipsum dolor sit amet](about:blank)
+- [Lorem ipsum dolor sit amet](about:blank)
