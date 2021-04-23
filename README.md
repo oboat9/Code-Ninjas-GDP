@@ -9,7 +9,7 @@
 
 ## Badges
 
-A place to seperate badges by belt to reduce confusiona among ninjas and senseis.
+A place to seperate badges by belt to reduce confusion among ninjas and senseis.
 
 ## White Belt
 
