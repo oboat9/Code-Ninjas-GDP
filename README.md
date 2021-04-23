@@ -1,6 +1,6 @@
 # Code Ninjas Resources Website
 
-[Code Ninjas Logo](CnLogo.jpg)
+![Code Ninjas Logo](CnLogo.jpg)
 
 ## Game Development Platform
 
